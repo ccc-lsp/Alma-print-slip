@@ -37,5 +37,7 @@ After installation you have to save the configuration even if you don't change i
 
 Sometimes the loan table of the first receipt you display to print may contain a row with "sorted"/"Sortable" text.
 
+## More information
 
+https://developers.exlibrisgroup.com/blog/browser-extensions-to-print-alma-loans-receipts/
 
